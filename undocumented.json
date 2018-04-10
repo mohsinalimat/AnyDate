@@ -1,0 +1,4331 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Clock.swift",
+      "line": null,
+      "symbol": "Clock",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Clock.swift",
+      "line": null,
+      "symbol": "Clock",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Clock.swift",
+      "line": null,
+      "symbol": "Clock",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Clock.swift",
+      "line": null,
+      "symbol": "Clock",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Clock.swift",
+      "line": null,
+      "symbol": "Clock",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Clock.swift",
+      "line": null,
+      "symbol": "Clock",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Clock.swift",
+      "line": 3,
+      "symbol": "Clock",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 1,
+      "symbol": "ClockIdentifierName",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 2,
+      "symbol": "ClockIdentifierName.current",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 3,
+      "symbol": "ClockIdentifierName.autoUpdatingCurrent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 4,
+      "symbol": "ClockIdentifierName.africaAbidjan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 5,
+      "symbol": "ClockIdentifierName.africaAccra",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 6,
+      "symbol": "ClockIdentifierName.africaAddisAbaba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 7,
+      "symbol": "ClockIdentifierName.africaAlgiers",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 8,
+      "symbol": "ClockIdentifierName.africaAsmara",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 9,
+      "symbol": "ClockIdentifierName.africaBamako",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 10,
+      "symbol": "ClockIdentifierName.africaBangui",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 11,
+      "symbol": "ClockIdentifierName.africaBanjul",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 12,
+      "symbol": "ClockIdentifierName.africaBissau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 13,
+      "symbol": "ClockIdentifierName.africaBlantyre",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 14,
+      "symbol": "ClockIdentifierName.africaBrazzaville",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 15,
+      "symbol": "ClockIdentifierName.africaBujumbura",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 16,
+      "symbol": "ClockIdentifierName.africaCairo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 17,
+      "symbol": "ClockIdentifierName.africaCasablanca",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 18,
+      "symbol": "ClockIdentifierName.africaCeuta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 19,
+      "symbol": "ClockIdentifierName.africaConakry",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 20,
+      "symbol": "ClockIdentifierName.africaDakar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 21,
+      "symbol": "ClockIdentifierName.africaDarEsSalaam",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 22,
+      "symbol": "ClockIdentifierName.africaDjibouti",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 23,
+      "symbol": "ClockIdentifierName.africaDouala",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 24,
+      "symbol": "ClockIdentifierName.africaElAaiun",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 25,
+      "symbol": "ClockIdentifierName.africaFreetown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 26,
+      "symbol": "ClockIdentifierName.africaGaborone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 27,
+      "symbol": "ClockIdentifierName.africaHarare",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 28,
+      "symbol": "ClockIdentifierName.africaJohannesburg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 29,
+      "symbol": "ClockIdentifierName.africaJuba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 30,
+      "symbol": "ClockIdentifierName.africaKampala",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 31,
+      "symbol": "ClockIdentifierName.africaKhartoum",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 32,
+      "symbol": "ClockIdentifierName.africaKigali",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 33,
+      "symbol": "ClockIdentifierName.africaKinshasa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 34,
+      "symbol": "ClockIdentifierName.africaLagos",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 35,
+      "symbol": "ClockIdentifierName.africaLibreville",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 36,
+      "symbol": "ClockIdentifierName.africaLome",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 37,
+      "symbol": "ClockIdentifierName.africaLuanda",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 38,
+      "symbol": "ClockIdentifierName.africaLubumbashi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 39,
+      "symbol": "ClockIdentifierName.africaLusaka",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 40,
+      "symbol": "ClockIdentifierName.africaMalabo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 41,
+      "symbol": "ClockIdentifierName.africaMaputo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 42,
+      "symbol": "ClockIdentifierName.africaMaseru",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 43,
+      "symbol": "ClockIdentifierName.africaMbabane",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 44,
+      "symbol": "ClockIdentifierName.africaMogadishu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 45,
+      "symbol": "ClockIdentifierName.africaMonrovia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 46,
+      "symbol": "ClockIdentifierName.africaNairobi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 47,
+      "symbol": "ClockIdentifierName.africaNdjamena",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 48,
+      "symbol": "ClockIdentifierName.africaNiamey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 49,
+      "symbol": "ClockIdentifierName.africaNouakchott",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 50,
+      "symbol": "ClockIdentifierName.africaOuagadougou",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 51,
+      "symbol": "ClockIdentifierName.africaPortoNovo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 52,
+      "symbol": "ClockIdentifierName.africaSaoTome",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 53,
+      "symbol": "ClockIdentifierName.africaTripoli",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 54,
+      "symbol": "ClockIdentifierName.africaTunis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 55,
+      "symbol": "ClockIdentifierName.africaWindhoek",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 56,
+      "symbol": "ClockIdentifierName.americaAdak",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 57,
+      "symbol": "ClockIdentifierName.americaAnchorage",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 58,
+      "symbol": "ClockIdentifierName.americaAnguilla",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 59,
+      "symbol": "ClockIdentifierName.americaAntigua",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 60,
+      "symbol": "ClockIdentifierName.americaAraguaina",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 61,
+      "symbol": "ClockIdentifierName.americaArgentinaBuenosAires",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 62,
+      "symbol": "ClockIdentifierName.americaArgentinaCatamarca",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 63,
+      "symbol": "ClockIdentifierName.americaArgentinaCordoba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 64,
+      "symbol": "ClockIdentifierName.americaArgentinaJujuy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 65,
+      "symbol": "ClockIdentifierName.americaArgentinaLaRioja",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 66,
+      "symbol": "ClockIdentifierName.americaArgentinaMendoza",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 67,
+      "symbol": "ClockIdentifierName.americaArgentinaRioGallegos",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 68,
+      "symbol": "ClockIdentifierName.americaArgentinaSalta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 69,
+      "symbol": "ClockIdentifierName.americaArgentinaSanJuan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 70,
+      "symbol": "ClockIdentifierName.americaArgentinaSanLuis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 71,
+      "symbol": "ClockIdentifierName.americaArgentinaTucuman",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 72,
+      "symbol": "ClockIdentifierName.americaArgentinaUshuaia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 73,
+      "symbol": "ClockIdentifierName.americaAruba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 74,
+      "symbol": "ClockIdentifierName.americaAsuncion",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 75,
+      "symbol": "ClockIdentifierName.americaAtikokan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 76,
+      "symbol": "ClockIdentifierName.americaBahia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 77,
+      "symbol": "ClockIdentifierName.americaBahiaBanderas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 78,
+      "symbol": "ClockIdentifierName.americaBarbados",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 79,
+      "symbol": "ClockIdentifierName.americaBelem",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 80,
+      "symbol": "ClockIdentifierName.americaBelize",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 81,
+      "symbol": "ClockIdentifierName.americaBlancSablon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 82,
+      "symbol": "ClockIdentifierName.americaBoaVista",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 83,
+      "symbol": "ClockIdentifierName.americaBogota",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 84,
+      "symbol": "ClockIdentifierName.americaBoise",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 85,
+      "symbol": "ClockIdentifierName.americaCambridgeBay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 86,
+      "symbol": "ClockIdentifierName.americaCampoGrande",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 87,
+      "symbol": "ClockIdentifierName.americaCancun",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 88,
+      "symbol": "ClockIdentifierName.americaCaracas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 89,
+      "symbol": "ClockIdentifierName.americaCayenne",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 90,
+      "symbol": "ClockIdentifierName.americaCayman",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 91,
+      "symbol": "ClockIdentifierName.americaChicago",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 92,
+      "symbol": "ClockIdentifierName.americaChihuahua",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 93,
+      "symbol": "ClockIdentifierName.americaCostaRica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 94,
+      "symbol": "ClockIdentifierName.americaCreston",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 95,
+      "symbol": "ClockIdentifierName.americaCuiaba",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 96,
+      "symbol": "ClockIdentifierName.americaCuracao",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 97,
+      "symbol": "ClockIdentifierName.americaDanmarkshavn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 98,
+      "symbol": "ClockIdentifierName.americaDawson",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 99,
+      "symbol": "ClockIdentifierName.americaDawsonCreek",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 100,
+      "symbol": "ClockIdentifierName.americaDenver",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 101,
+      "symbol": "ClockIdentifierName.americaDetroit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 102,
+      "symbol": "ClockIdentifierName.americaDominica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 103,
+      "symbol": "ClockIdentifierName.americaEdmonton",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 104,
+      "symbol": "ClockIdentifierName.americaEirunepe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 105,
+      "symbol": "ClockIdentifierName.americaElSalvador",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 106,
+      "symbol": "ClockIdentifierName.americaFortNelson",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 107,
+      "symbol": "ClockIdentifierName.americaFortaleza",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 108,
+      "symbol": "ClockIdentifierName.americaGlaceBay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 109,
+      "symbol": "ClockIdentifierName.americaGodthab",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 110,
+      "symbol": "ClockIdentifierName.americaGooseBay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 111,
+      "symbol": "ClockIdentifierName.americaGrandTurk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 112,
+      "symbol": "ClockIdentifierName.americaGrenada",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 113,
+      "symbol": "ClockIdentifierName.americaGuadeloupe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 114,
+      "symbol": "ClockIdentifierName.americaGuatemala",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 115,
+      "symbol": "ClockIdentifierName.americaGuayaquil",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 116,
+      "symbol": "ClockIdentifierName.americaGuyana",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 117,
+      "symbol": "ClockIdentifierName.americaHalifax",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 118,
+      "symbol": "ClockIdentifierName.americaHavana",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 119,
+      "symbol": "ClockIdentifierName.americaHermosillo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 120,
+      "symbol": "ClockIdentifierName.americaIndianaIndianapolis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 121,
+      "symbol": "ClockIdentifierName.americaIndianaKnox",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 122,
+      "symbol": "ClockIdentifierName.americaIndianaMarengo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 123,
+      "symbol": "ClockIdentifierName.americaIndianaPetersburg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 124,
+      "symbol": "ClockIdentifierName.americaIndianaTellCity",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 125,
+      "symbol": "ClockIdentifierName.americaIndianaVevay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 126,
+      "symbol": "ClockIdentifierName.americaIndianaVincennes",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 127,
+      "symbol": "ClockIdentifierName.americaIndianaWinamac",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 128,
+      "symbol": "ClockIdentifierName.americaInuvik",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 129,
+      "symbol": "ClockIdentifierName.americaIqaluit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 130,
+      "symbol": "ClockIdentifierName.americaJamaica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 131,
+      "symbol": "ClockIdentifierName.americaJuneau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 132,
+      "symbol": "ClockIdentifierName.americaKentuckyLouisville",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 133,
+      "symbol": "ClockIdentifierName.americaKentuckyMonticello",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 134,
+      "symbol": "ClockIdentifierName.americaKralendijk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 135,
+      "symbol": "ClockIdentifierName.americaLaPaz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 136,
+      "symbol": "ClockIdentifierName.americaLima",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 137,
+      "symbol": "ClockIdentifierName.americaLosAngeles",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 138,
+      "symbol": "ClockIdentifierName.americaLowerPrinces",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 139,
+      "symbol": "ClockIdentifierName.americaMaceio",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 140,
+      "symbol": "ClockIdentifierName.americaManagua",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 141,
+      "symbol": "ClockIdentifierName.americaManaus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 142,
+      "symbol": "ClockIdentifierName.americaMarigot",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 143,
+      "symbol": "ClockIdentifierName.americaMartinique",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 144,
+      "symbol": "ClockIdentifierName.americaMatamoros",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 145,
+      "symbol": "ClockIdentifierName.americaMazatlan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 146,
+      "symbol": "ClockIdentifierName.americaMenominee",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 147,
+      "symbol": "ClockIdentifierName.americaMerida",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 148,
+      "symbol": "ClockIdentifierName.americaMetlakatla",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 149,
+      "symbol": "ClockIdentifierName.americaMexicoCity",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 150,
+      "symbol": "ClockIdentifierName.americaMiquelon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 151,
+      "symbol": "ClockIdentifierName.americaMoncton",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 152,
+      "symbol": "ClockIdentifierName.americaMonterrey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 153,
+      "symbol": "ClockIdentifierName.americaMontevideo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 154,
+      "symbol": "ClockIdentifierName.americaMontreal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 155,
+      "symbol": "ClockIdentifierName.americaMontserrat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 156,
+      "symbol": "ClockIdentifierName.americaNassau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 157,
+      "symbol": "ClockIdentifierName.americaNewYork",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 158,
+      "symbol": "ClockIdentifierName.americaNipigon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 159,
+      "symbol": "ClockIdentifierName.americaNome",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 160,
+      "symbol": "ClockIdentifierName.americaNoronha",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 161,
+      "symbol": "ClockIdentifierName.americaNorthDakotaBeulah",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 162,
+      "symbol": "ClockIdentifierName.americaNorthDakotaCenter",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 163,
+      "symbol": "ClockIdentifierName.americaNorthDakotaNewSalem",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 164,
+      "symbol": "ClockIdentifierName.americaOjinaga",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 165,
+      "symbol": "ClockIdentifierName.americaPanama",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 166,
+      "symbol": "ClockIdentifierName.americaPangnirtung",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 167,
+      "symbol": "ClockIdentifierName.americaParamaribo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 168,
+      "symbol": "ClockIdentifierName.americaPhoenix",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 169,
+      "symbol": "ClockIdentifierName.americaPortAuPrince",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 170,
+      "symbol": "ClockIdentifierName.americaPortOfSpain",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 171,
+      "symbol": "ClockIdentifierName.americaPortoVelho",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 172,
+      "symbol": "ClockIdentifierName.americaPuertoRico",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 173,
+      "symbol": "ClockIdentifierName.americaPuntaArenas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 174,
+      "symbol": "ClockIdentifierName.americaRainyRiver",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 175,
+      "symbol": "ClockIdentifierName.americaRankinInlet",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 176,
+      "symbol": "ClockIdentifierName.americaRecife",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 177,
+      "symbol": "ClockIdentifierName.americaRegina",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 178,
+      "symbol": "ClockIdentifierName.americaResolute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 179,
+      "symbol": "ClockIdentifierName.americaRioBranco",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 180,
+      "symbol": "ClockIdentifierName.americaSantaIsabel",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 181,
+      "symbol": "ClockIdentifierName.americaSantarem",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 182,
+      "symbol": "ClockIdentifierName.americaSantiago",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 183,
+      "symbol": "ClockIdentifierName.americaSantoDomingo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 184,
+      "symbol": "ClockIdentifierName.americaSaoPaulo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 185,
+      "symbol": "ClockIdentifierName.americaScoresbysund",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 186,
+      "symbol": "ClockIdentifierName.americaShiprock",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 187,
+      "symbol": "ClockIdentifierName.americaSitka",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 188,
+      "symbol": "ClockIdentifierName.americaStBarthelemy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 189,
+      "symbol": "ClockIdentifierName.americaStJohns",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 190,
+      "symbol": "ClockIdentifierName.americaStKitts",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 191,
+      "symbol": "ClockIdentifierName.americaStLucia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 192,
+      "symbol": "ClockIdentifierName.americaStThomas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 193,
+      "symbol": "ClockIdentifierName.americaStVincent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 194,
+      "symbol": "ClockIdentifierName.americaSwiftCurrent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 195,
+      "symbol": "ClockIdentifierName.americaTegucigalpa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 196,
+      "symbol": "ClockIdentifierName.americaThule",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 197,
+      "symbol": "ClockIdentifierName.americaThunderBay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 198,
+      "symbol": "ClockIdentifierName.americaTijuana",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 199,
+      "symbol": "ClockIdentifierName.americaToronto",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 200,
+      "symbol": "ClockIdentifierName.americaTortola",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 201,
+      "symbol": "ClockIdentifierName.americaVancouver",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 202,
+      "symbol": "ClockIdentifierName.americaWhitehorse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 203,
+      "symbol": "ClockIdentifierName.americaWinnipeg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 204,
+      "symbol": "ClockIdentifierName.americaYakutat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 205,
+      "symbol": "ClockIdentifierName.americaYellowknife",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 206,
+      "symbol": "ClockIdentifierName.antarcticaCasey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 207,
+      "symbol": "ClockIdentifierName.antarcticaDavis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 208,
+      "symbol": "ClockIdentifierName.antarcticaDumontDUrville",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 209,
+      "symbol": "ClockIdentifierName.antarcticaMacquarie",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 210,
+      "symbol": "ClockIdentifierName.antarcticaMawson",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 211,
+      "symbol": "ClockIdentifierName.antarcticaMcMurdo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 212,
+      "symbol": "ClockIdentifierName.antarcticaPalmer",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 213,
+      "symbol": "ClockIdentifierName.antarcticaRothera",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 214,
+      "symbol": "ClockIdentifierName.antarcticaSouthPole",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 215,
+      "symbol": "ClockIdentifierName.antarcticaSyowa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 216,
+      "symbol": "ClockIdentifierName.antarcticaTroll",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 217,
+      "symbol": "ClockIdentifierName.antarcticaVostok",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 218,
+      "symbol": "ClockIdentifierName.arcticLongyearbyen",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 219,
+      "symbol": "ClockIdentifierName.asiaAden",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 220,
+      "symbol": "ClockIdentifierName.asiaAlmaty",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 221,
+      "symbol": "ClockIdentifierName.asiaAmman",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 222,
+      "symbol": "ClockIdentifierName.asiaAnadyr",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 223,
+      "symbol": "ClockIdentifierName.asiaAqtau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 224,
+      "symbol": "ClockIdentifierName.asiaAqtobe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 225,
+      "symbol": "ClockIdentifierName.asiaAshgabat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 226,
+      "symbol": "ClockIdentifierName.asiaAtyrau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 227,
+      "symbol": "ClockIdentifierName.asiaBaghdad",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 228,
+      "symbol": "ClockIdentifierName.asiaBahrain",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 229,
+      "symbol": "ClockIdentifierName.asiaBaku",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 230,
+      "symbol": "ClockIdentifierName.asiaBangkok",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 231,
+      "symbol": "ClockIdentifierName.asiaBarnaul",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 232,
+      "symbol": "ClockIdentifierName.asiaBeirut",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 233,
+      "symbol": "ClockIdentifierName.asiaBishkek",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 234,
+      "symbol": "ClockIdentifierName.asiaBrunei",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 235,
+      "symbol": "ClockIdentifierName.asiaChita",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 236,
+      "symbol": "ClockIdentifierName.asiaChoibalsan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 237,
+      "symbol": "ClockIdentifierName.asiaChongqing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 238,
+      "symbol": "ClockIdentifierName.asiaColombo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 239,
+      "symbol": "ClockIdentifierName.asiaDamascus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 240,
+      "symbol": "ClockIdentifierName.asiaDhaka",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 241,
+      "symbol": "ClockIdentifierName.asiaDili",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 242,
+      "symbol": "ClockIdentifierName.asiaDubai",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 243,
+      "symbol": "ClockIdentifierName.asiaDushanbe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 244,
+      "symbol": "ClockIdentifierName.asiaFamagusta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 245,
+      "symbol": "ClockIdentifierName.asiaGaza",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 246,
+      "symbol": "ClockIdentifierName.asiaHarbin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 247,
+      "symbol": "ClockIdentifierName.asiaHebron",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 248,
+      "symbol": "ClockIdentifierName.asiaHoChiMinh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 249,
+      "symbol": "ClockIdentifierName.asiaHongKong",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 250,
+      "symbol": "ClockIdentifierName.asiaHovd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 251,
+      "symbol": "ClockIdentifierName.asiaIrkutsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 252,
+      "symbol": "ClockIdentifierName.asiaJakarta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 253,
+      "symbol": "ClockIdentifierName.asiaJayapura",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 254,
+      "symbol": "ClockIdentifierName.asiaJerusalem",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 255,
+      "symbol": "ClockIdentifierName.asiaKabul",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 256,
+      "symbol": "ClockIdentifierName.asiaKamchatka",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 257,
+      "symbol": "ClockIdentifierName.asiaKarachi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 258,
+      "symbol": "ClockIdentifierName.asiaKashgar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 259,
+      "symbol": "ClockIdentifierName.asiaKathmandu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 260,
+      "symbol": "ClockIdentifierName.asiaKatmandu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 261,
+      "symbol": "ClockIdentifierName.asiaKhandyga",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 262,
+      "symbol": "ClockIdentifierName.asiaKolkata",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 263,
+      "symbol": "ClockIdentifierName.asiaKrasnoyarsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 264,
+      "symbol": "ClockIdentifierName.asiaKualaLumpur",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 265,
+      "symbol": "ClockIdentifierName.asiaKuching",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 266,
+      "symbol": "ClockIdentifierName.asiaKuwait",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 267,
+      "symbol": "ClockIdentifierName.asiaMacau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 268,
+      "symbol": "ClockIdentifierName.asiaMagadan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 269,
+      "symbol": "ClockIdentifierName.asiaMakassar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 270,
+      "symbol": "ClockIdentifierName.asiaManila",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 271,
+      "symbol": "ClockIdentifierName.asiaMuscat",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 272,
+      "symbol": "ClockIdentifierName.asiaNicosia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 273,
+      "symbol": "ClockIdentifierName.asiaNovokuznetsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 274,
+      "symbol": "ClockIdentifierName.asiaNovosibirsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 275,
+      "symbol": "ClockIdentifierName.asiaOmsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 276,
+      "symbol": "ClockIdentifierName.asiaOral",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 277,
+      "symbol": "ClockIdentifierName.asiaPhnomPenh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 278,
+      "symbol": "ClockIdentifierName.asiaPontianak",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 279,
+      "symbol": "ClockIdentifierName.asiaPyongyang",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 280,
+      "symbol": "ClockIdentifierName.asiaQatar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 281,
+      "symbol": "ClockIdentifierName.asiaQyzylorda",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 282,
+      "symbol": "ClockIdentifierName.asiaRangoon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 283,
+      "symbol": "ClockIdentifierName.asiaRiyadh",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 284,
+      "symbol": "ClockIdentifierName.asiaSakhalin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 285,
+      "symbol": "ClockIdentifierName.asiaSamarkand",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 286,
+      "symbol": "ClockIdentifierName.asiaSeoul",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 287,
+      "symbol": "ClockIdentifierName.asiaShanghai",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 288,
+      "symbol": "ClockIdentifierName.asiaSingapore",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 289,
+      "symbol": "ClockIdentifierName.asiaSrednekolymsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 290,
+      "symbol": "ClockIdentifierName.asiaTaipei",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 291,
+      "symbol": "ClockIdentifierName.asiaTashkent",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 292,
+      "symbol": "ClockIdentifierName.asiaTbilisi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 293,
+      "symbol": "ClockIdentifierName.asiaTehran",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 294,
+      "symbol": "ClockIdentifierName.asiaThimphu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 295,
+      "symbol": "ClockIdentifierName.asiaTokyo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 296,
+      "symbol": "ClockIdentifierName.asiaTomsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 297,
+      "symbol": "ClockIdentifierName.asiaUlaanbaatar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 298,
+      "symbol": "ClockIdentifierName.asiaUrumqi",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 299,
+      "symbol": "ClockIdentifierName.asiaUstNera",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 300,
+      "symbol": "ClockIdentifierName.asiaVientiane",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 301,
+      "symbol": "ClockIdentifierName.asiaVladivostok",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 302,
+      "symbol": "ClockIdentifierName.asiaYakutsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 303,
+      "symbol": "ClockIdentifierName.asiaYangon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 304,
+      "symbol": "ClockIdentifierName.asiaYekaterinburg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 305,
+      "symbol": "ClockIdentifierName.asiaYerevan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 306,
+      "symbol": "ClockIdentifierName.atlanticAzores",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 307,
+      "symbol": "ClockIdentifierName.atlanticBermuda",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 308,
+      "symbol": "ClockIdentifierName.atlanticCanary",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 309,
+      "symbol": "ClockIdentifierName.atlanticCapeVerde",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 310,
+      "symbol": "ClockIdentifierName.atlanticFaroe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 311,
+      "symbol": "ClockIdentifierName.atlanticMadeira",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 312,
+      "symbol": "ClockIdentifierName.atlanticReykjavik",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 313,
+      "symbol": "ClockIdentifierName.atlanticSouthGeorgia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 314,
+      "symbol": "ClockIdentifierName.atlanticStHelena",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 315,
+      "symbol": "ClockIdentifierName.atlanticStanley",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 316,
+      "symbol": "ClockIdentifierName.australiaAdelaide",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 317,
+      "symbol": "ClockIdentifierName.australiaBrisbane",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 318,
+      "symbol": "ClockIdentifierName.australiaBrokenHill",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 319,
+      "symbol": "ClockIdentifierName.australiaCurrie",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 320,
+      "symbol": "ClockIdentifierName.australiaDarwin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 321,
+      "symbol": "ClockIdentifierName.australiaEucla",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 322,
+      "symbol": "ClockIdentifierName.australiaHobart",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 323,
+      "symbol": "ClockIdentifierName.australiaLindeman",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 324,
+      "symbol": "ClockIdentifierName.australiaLordHowe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 325,
+      "symbol": "ClockIdentifierName.australiaMelbourne",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 326,
+      "symbol": "ClockIdentifierName.australiaPerth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 327,
+      "symbol": "ClockIdentifierName.australiaSydney",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 328,
+      "symbol": "ClockIdentifierName.europeAmsterdam",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 329,
+      "symbol": "ClockIdentifierName.europeAndorra",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 330,
+      "symbol": "ClockIdentifierName.europeAstrakhan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 331,
+      "symbol": "ClockIdentifierName.europeAthens",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 332,
+      "symbol": "ClockIdentifierName.europeBelgrade",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 333,
+      "symbol": "ClockIdentifierName.europeBerlin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 334,
+      "symbol": "ClockIdentifierName.europeBratislava",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 335,
+      "symbol": "ClockIdentifierName.europeBrussels",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 336,
+      "symbol": "ClockIdentifierName.europeBucharest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 337,
+      "symbol": "ClockIdentifierName.europeBudapest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 338,
+      "symbol": "ClockIdentifierName.europeBusingen",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 339,
+      "symbol": "ClockIdentifierName.europeChisinau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 340,
+      "symbol": "ClockIdentifierName.europeCopenhagen",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 341,
+      "symbol": "ClockIdentifierName.europeDublin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 342,
+      "symbol": "ClockIdentifierName.europeGibraltar",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 343,
+      "symbol": "ClockIdentifierName.europeGuernsey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 344,
+      "symbol": "ClockIdentifierName.europeHelsinki",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 345,
+      "symbol": "ClockIdentifierName.europeIsleOfMan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 346,
+      "symbol": "ClockIdentifierName.europeIstanbul",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 347,
+      "symbol": "ClockIdentifierName.europeJersey",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 348,
+      "symbol": "ClockIdentifierName.europeKaliningrad",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 349,
+      "symbol": "ClockIdentifierName.europeKiev",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 350,
+      "symbol": "ClockIdentifierName.europeKirov",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 351,
+      "symbol": "ClockIdentifierName.europeLisbon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 352,
+      "symbol": "ClockIdentifierName.europeLjubljana",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 353,
+      "symbol": "ClockIdentifierName.europeLondon",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 354,
+      "symbol": "ClockIdentifierName.europeLuxembourg",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 355,
+      "symbol": "ClockIdentifierName.europeMadrid",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 356,
+      "symbol": "ClockIdentifierName.europeMalta",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 357,
+      "symbol": "ClockIdentifierName.europeMariehamn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 358,
+      "symbol": "ClockIdentifierName.europeMinsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 359,
+      "symbol": "ClockIdentifierName.europeMonaco",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 360,
+      "symbol": "ClockIdentifierName.europeMoscow",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 361,
+      "symbol": "ClockIdentifierName.europeOslo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 362,
+      "symbol": "ClockIdentifierName.europeParis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 363,
+      "symbol": "ClockIdentifierName.europePodgorica",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 364,
+      "symbol": "ClockIdentifierName.europePrague",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 365,
+      "symbol": "ClockIdentifierName.europeRiga",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 366,
+      "symbol": "ClockIdentifierName.europeRome",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 367,
+      "symbol": "ClockIdentifierName.europeSamara",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 368,
+      "symbol": "ClockIdentifierName.europeSanMarino",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 369,
+      "symbol": "ClockIdentifierName.europeSarajevo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 370,
+      "symbol": "ClockIdentifierName.europeSaratov",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 371,
+      "symbol": "ClockIdentifierName.europeSimferopol",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 372,
+      "symbol": "ClockIdentifierName.europeSkopje",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 373,
+      "symbol": "ClockIdentifierName.europeSofia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 374,
+      "symbol": "ClockIdentifierName.europeStockholm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 375,
+      "symbol": "ClockIdentifierName.europeTallinn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 376,
+      "symbol": "ClockIdentifierName.europeTirane",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 377,
+      "symbol": "ClockIdentifierName.europeUlyanovsk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 378,
+      "symbol": "ClockIdentifierName.europeUzhgorod",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 379,
+      "symbol": "ClockIdentifierName.europeVaduz",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 380,
+      "symbol": "ClockIdentifierName.europeVatican",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 381,
+      "symbol": "ClockIdentifierName.europeVienna",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 382,
+      "symbol": "ClockIdentifierName.europeVilnius",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 383,
+      "symbol": "ClockIdentifierName.europeVolgograd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 384,
+      "symbol": "ClockIdentifierName.europeWarsaw",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 385,
+      "symbol": "ClockIdentifierName.europeZagreb",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 386,
+      "symbol": "ClockIdentifierName.europeZaporozhye",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 387,
+      "symbol": "ClockIdentifierName.europeZurich",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 388,
+      "symbol": "ClockIdentifierName.gmt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 389,
+      "symbol": "ClockIdentifierName.indianAntananarivo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 390,
+      "symbol": "ClockIdentifierName.indianChagos",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 391,
+      "symbol": "ClockIdentifierName.indianChristmas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 392,
+      "symbol": "ClockIdentifierName.indianCocos",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 393,
+      "symbol": "ClockIdentifierName.indianComoro",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 394,
+      "symbol": "ClockIdentifierName.indianKerguelen",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 395,
+      "symbol": "ClockIdentifierName.indianMahe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 396,
+      "symbol": "ClockIdentifierName.indianMaldives",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 397,
+      "symbol": "ClockIdentifierName.indianMauritius",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 398,
+      "symbol": "ClockIdentifierName.indianMayotte",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 399,
+      "symbol": "ClockIdentifierName.indianReunion",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 400,
+      "symbol": "ClockIdentifierName.pacificApia",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 401,
+      "symbol": "ClockIdentifierName.pacificAuckland",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 402,
+      "symbol": "ClockIdentifierName.pacificBougainville",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 403,
+      "symbol": "ClockIdentifierName.pacificChatham",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 404,
+      "symbol": "ClockIdentifierName.pacificChuuk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 405,
+      "symbol": "ClockIdentifierName.pacificEaster",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 406,
+      "symbol": "ClockIdentifierName.pacificEfate",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 407,
+      "symbol": "ClockIdentifierName.pacificEnderbury",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 408,
+      "symbol": "ClockIdentifierName.pacificFakaofo",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 409,
+      "symbol": "ClockIdentifierName.pacificFiji",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 410,
+      "symbol": "ClockIdentifierName.pacificFunafuti",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 411,
+      "symbol": "ClockIdentifierName.pacificGalapagos",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 412,
+      "symbol": "ClockIdentifierName.pacificGambier",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 413,
+      "symbol": "ClockIdentifierName.pacificGuadalcanal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 414,
+      "symbol": "ClockIdentifierName.pacificGuam",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 415,
+      "symbol": "ClockIdentifierName.pacificHonolulu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 416,
+      "symbol": "ClockIdentifierName.pacificJohnston",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 417,
+      "symbol": "ClockIdentifierName.pacificKiritimati",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 418,
+      "symbol": "ClockIdentifierName.pacificKosrae",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 419,
+      "symbol": "ClockIdentifierName.pacificKwajalein",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 420,
+      "symbol": "ClockIdentifierName.pacificMajuro",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 421,
+      "symbol": "ClockIdentifierName.pacificMarquesas",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 422,
+      "symbol": "ClockIdentifierName.pacificMidway",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 423,
+      "symbol": "ClockIdentifierName.pacificNauru",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 424,
+      "symbol": "ClockIdentifierName.pacificNiue",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 425,
+      "symbol": "ClockIdentifierName.pacificNorfolk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 426,
+      "symbol": "ClockIdentifierName.pacificNoumea",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 427,
+      "symbol": "ClockIdentifierName.pacificPagoPago",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 428,
+      "symbol": "ClockIdentifierName.pacificPalau",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 429,
+      "symbol": "ClockIdentifierName.pacificPitcairn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 430,
+      "symbol": "ClockIdentifierName.pacificPohnpei",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 431,
+      "symbol": "ClockIdentifierName.pacificPonape",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 432,
+      "symbol": "ClockIdentifierName.pacificPortMoresby",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 433,
+      "symbol": "ClockIdentifierName.pacificRarotonga",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 434,
+      "symbol": "ClockIdentifierName.pacificSaipan",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 435,
+      "symbol": "ClockIdentifierName.pacificTahiti",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 436,
+      "symbol": "ClockIdentifierName.pacificTarawa",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 437,
+      "symbol": "ClockIdentifierName.pacificTongatapu",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 438,
+      "symbol": "ClockIdentifierName.pacificTruk",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 439,
+      "symbol": "ClockIdentifierName.pacificWake",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 440,
+      "symbol": "ClockIdentifierName.pacificWallis",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ClockIdentifierName.swift",
+      "line": 441,
+      "symbol": "ClockIdentifierName.utc",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": null,
+      "symbol": "Instant",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": null,
+      "symbol": "Instant",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": null,
+      "symbol": "Instant",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": null,
+      "symbol": "Instant",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": null,
+      "symbol": "Instant",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": null,
+      "symbol": "Instant",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 3,
+      "symbol": "Instant",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 18,
+      "symbol": "Instant.Component",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 19,
+      "symbol": "Instant.Component.second",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 20,
+      "symbol": "Instant.Component.nanosecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 23,
+      "symbol": "Instant.UntilComponent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 24,
+      "symbol": "Instant.UntilComponent.day",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 25,
+      "symbol": "Instant.UntilComponent.hour",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 26,
+      "symbol": "Instant.UntilComponent.minute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 27,
+      "symbol": "Instant.UntilComponent.second",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 28,
+      "symbol": "Instant.UntilComponent.nanosecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 343,
+      "symbol": "Instant.+(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 349,
+      "symbol": "Instant.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 354,
+      "symbol": "Instant.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Instant.swift",
+      "line": 360,
+      "symbol": "Instant.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": null,
+      "symbol": "LocalDate",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": null,
+      "symbol": "LocalDate",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": null,
+      "symbol": "LocalDate",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": null,
+      "symbol": "LocalDate",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": null,
+      "symbol": "LocalDate",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": null,
+      "symbol": "LocalDate",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 3,
+      "symbol": "LocalDate",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 35,
+      "symbol": "LocalDate.Component",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 36,
+      "symbol": "LocalDate.Component.year",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 37,
+      "symbol": "LocalDate.Component.month",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 38,
+      "symbol": "LocalDate.Component.day",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 40,
+      "symbol": "LocalDate.PlusComponent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 41,
+      "symbol": "LocalDate.PlusComponent.year",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 42,
+      "symbol": "LocalDate.PlusComponent.month",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 43,
+      "symbol": "LocalDate.PlusComponent.weekday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 44,
+      "symbol": "LocalDate.PlusComponent.day",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 46,
+      "symbol": "LocalDate.RangeComponent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 47,
+      "symbol": "LocalDate.RangeComponent.era",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 48,
+      "symbol": "LocalDate.RangeComponent.year",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 49,
+      "symbol": "LocalDate.RangeComponent.month",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 50,
+      "symbol": "LocalDate.RangeComponent.weekday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 51,
+      "symbol": "LocalDate.RangeComponent.weekOfMonth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 53,
+      "symbol": "LocalDate.UntilComponent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 54,
+      "symbol": "LocalDate.UntilComponent.year",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 55,
+      "symbol": "LocalDate.UntilComponent.month",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 56,
+      "symbol": "LocalDate.UntilComponent.weekday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 57,
+      "symbol": "LocalDate.UntilComponent.day",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 558,
+      "symbol": "LocalDate.+(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 565,
+      "symbol": "LocalDate.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 570,
+      "symbol": "LocalDate.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDate.swift",
+      "line": 577,
+      "symbol": "LocalDate.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": null,
+      "symbol": "LocalDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": null,
+      "symbol": "LocalDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": null,
+      "symbol": "LocalDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": null,
+      "symbol": "LocalDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": null,
+      "symbol": "LocalDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": null,
+      "symbol": "LocalDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 3,
+      "symbol": "LocalDateTime",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 7,
+      "symbol": "LocalDateTime.Component",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 8,
+      "symbol": "LocalDateTime.Component.year",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 9,
+      "symbol": "LocalDateTime.Component.month",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 10,
+      "symbol": "LocalDateTime.Component.day",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 11,
+      "symbol": "LocalDateTime.Component.hour",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 12,
+      "symbol": "LocalDateTime.Component.minute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 13,
+      "symbol": "LocalDateTime.Component.second",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 14,
+      "symbol": "LocalDateTime.Component.nanosecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 16,
+      "symbol": "LocalDateTime.PlusComponent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 17,
+      "symbol": "LocalDateTime.PlusComponent.year",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 18,
+      "symbol": "LocalDateTime.PlusComponent.month",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 19,
+      "symbol": "LocalDateTime.PlusComponent.weekday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 20,
+      "symbol": "LocalDateTime.PlusComponent.day",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 21,
+      "symbol": "LocalDateTime.PlusComponent.hour",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 22,
+      "symbol": "LocalDateTime.PlusComponent.minute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 23,
+      "symbol": "LocalDateTime.PlusComponent.second",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 24,
+      "symbol": "LocalDateTime.PlusComponent.nanosecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 26,
+      "symbol": "LocalDateTime.RangeComponent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 27,
+      "symbol": "LocalDateTime.RangeComponent.era",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 28,
+      "symbol": "LocalDateTime.RangeComponent.year",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 29,
+      "symbol": "LocalDateTime.RangeComponent.month",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 30,
+      "symbol": "LocalDateTime.RangeComponent.weekday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 31,
+      "symbol": "LocalDateTime.RangeComponent.weekOfMonth",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 32,
+      "symbol": "LocalDateTime.RangeComponent.hour",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 33,
+      "symbol": "LocalDateTime.RangeComponent.minute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 34,
+      "symbol": "LocalDateTime.RangeComponent.second",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 35,
+      "symbol": "LocalDateTime.RangeComponent.nanosecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 37,
+      "symbol": "LocalDateTime.UntilComponent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 38,
+      "symbol": "LocalDateTime.UntilComponent.year",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 39,
+      "symbol": "LocalDateTime.UntilComponent.month",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 40,
+      "symbol": "LocalDateTime.UntilComponent.weekday",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 41,
+      "symbol": "LocalDateTime.UntilComponent.day",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 42,
+      "symbol": "LocalDateTime.UntilComponent.hour",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 43,
+      "symbol": "LocalDateTime.UntilComponent.minute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 44,
+      "symbol": "LocalDateTime.UntilComponent.second",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 45,
+      "symbol": "LocalDateTime.UntilComponent.nanosecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 605,
+      "symbol": "LocalDateTime.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 609,
+      "symbol": "LocalDateTime.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 615,
+      "symbol": "LocalDateTime.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 627,
+      "symbol": "LocalDateTime.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 630,
+      "symbol": "LocalDateTime.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 636,
+      "symbol": "LocalDateTime.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 647,
+      "symbol": "LocalDateTime.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 650,
+      "symbol": "LocalDateTime.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalDateTime.swift",
+      "line": 656,
+      "symbol": "LocalDateTime.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": null,
+      "symbol": "LocalTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": null,
+      "symbol": "LocalTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": null,
+      "symbol": "LocalTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": null,
+      "symbol": "LocalTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": null,
+      "symbol": "LocalTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": null,
+      "symbol": "LocalTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 3,
+      "symbol": "LocalTime",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 74,
+      "symbol": "LocalTime.Component",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 75,
+      "symbol": "LocalTime.Component.hour",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 76,
+      "symbol": "LocalTime.Component.minute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 77,
+      "symbol": "LocalTime.Component.second",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 78,
+      "symbol": "LocalTime.Component.nanosecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 80,
+      "symbol": "LocalTime.PlusComponent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 81,
+      "symbol": "LocalTime.PlusComponent.hour",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 82,
+      "symbol": "LocalTime.PlusComponent.minute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 83,
+      "symbol": "LocalTime.PlusComponent.second",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 84,
+      "symbol": "LocalTime.PlusComponent.nanosecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 86,
+      "symbol": "LocalTime.RangeComponent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 87,
+      "symbol": "LocalTime.RangeComponent.hour",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 88,
+      "symbol": "LocalTime.RangeComponent.minute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 89,
+      "symbol": "LocalTime.RangeComponent.second",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 90,
+      "symbol": "LocalTime.RangeComponent.nanosecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 92,
+      "symbol": "LocalTime.UntilComponent",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 93,
+      "symbol": "LocalTime.UntilComponent.day",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 94,
+      "symbol": "LocalTime.UntilComponent.hour",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 95,
+      "symbol": "LocalTime.UntilComponent.minute",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 96,
+      "symbol": "LocalTime.UntilComponent.second",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 97,
+      "symbol": "LocalTime.UntilComponent.nanosecond",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 522,
+      "symbol": "LocalTime.+(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 530,
+      "symbol": "LocalTime.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 536,
+      "symbol": "LocalTime.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/LocalTime.swift",
+      "line": 544,
+      "symbol": "LocalTime.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": null,
+      "symbol": "Period",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": null,
+      "symbol": "Period",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": null,
+      "symbol": "Period",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": null,
+      "symbol": "Period",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": null,
+      "symbol": "Period",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": null,
+      "symbol": "Period",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": 3,
+      "symbol": "Period",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": 114,
+      "symbol": "Period.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": 123,
+      "symbol": "Period.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": 134,
+      "symbol": "Period.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": 156,
+      "symbol": "Period.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": 165,
+      "symbol": "Period.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": 176,
+      "symbol": "Period.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": 199,
+      "symbol": "Period.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": 208,
+      "symbol": "Period.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/Period.swift",
+      "line": 220,
+      "symbol": "Period.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": null,
+      "symbol": "ZonedDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": null,
+      "symbol": "ZonedDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": null,
+      "symbol": "ZonedDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": null,
+      "symbol": "ZonedDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": null,
+      "symbol": "ZonedDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": null,
+      "symbol": "ZonedDateTime",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 3,
+      "symbol": "ZonedDateTime",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 576,
+      "symbol": "ZonedDateTime.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 582,
+      "symbol": "ZonedDateTime.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 590,
+      "symbol": "ZonedDateTime.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 604,
+      "symbol": "ZonedDateTime.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 607,
+      "symbol": "ZonedDateTime.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 613,
+      "symbol": "ZonedDateTime.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 624,
+      "symbol": "ZonedDateTime.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 627,
+      "symbol": "ZonedDateTime.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 633,
+      "symbol": "ZonedDateTime.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 644,
+      "symbol": "ZonedDateTime.+=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 647,
+      "symbol": "ZonedDateTime.-(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kawoou/GitHub/DateTime/Sources/AnyDate/ZonedDateTime.swift",
+      "line": 653,
+      "symbol": "ZonedDateTime.-=(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/kawoou/GitHub/DateTime"
+}
